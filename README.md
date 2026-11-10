@@ -89,13 +89,13 @@ tic-tac-toe/
 1. Clone o repositório:
 
 ```bash
-git clone [URL_DO_REPOSITORIO](https://github.com/mjulianegreiros/jogo-da-velha-minimax-minimax-minimaxalphabeta/)
+git clone https://github.com/mjulianegreiros/jogo-da-velha-minimax-minimax-minimaxalphabeta.git
 ```
 
 2. Entre na pasta do projeto:
 
 ```bash
-cd tic-tac-toe
+cd jogo-da-velha-minimax-minimax-minimaxalphabeta/tic-tac-toe
 ```
 
 3. Execute o arquivo principal:
